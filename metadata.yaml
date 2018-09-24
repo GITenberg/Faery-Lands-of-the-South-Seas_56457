@@ -1,0 +1,33 @@
+_repo: Faery-Lands-of-the-South-Seas_56457
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Nordhoff, Charles
+    alias: Nordhoff, Charles Bernard
+    birthdate: &id001 1887
+    deathdate: 1947
+    gutenberg_agent_id: '46472'
+    url: http://www.gutenberg.org/2009/agents/46472
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Nordhoff
+  - agent_name: Hall, James Norman
+    birthdate: *id001
+    deathdate: 1951
+    gutenberg_agent_id: '8797'
+    url: http://www.gutenberg.org/2009/agents/8797
+    wikipedia: https://en.wikipedia.org/wiki/James_Norman_Hall
+description: ''
+gutenberg_issued: '2018-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Polynesia -- Description and travel'
+- !lcsh 'Polynesia -- Social life and customs'
+- GITenberg
+title: Faery Lands of the South Seas
+url: http://www.gutenberg.org/ebooks/56457
