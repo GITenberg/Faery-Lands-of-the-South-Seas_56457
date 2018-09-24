@@ -1,21 +1,26 @@
 _repo: Faery-Lands-of-the-South-Seas_56457
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56457-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Nordhoff, Charles
     alias: Nordhoff, Charles Bernard
-    birthdate: &id001 1887
+    birthdate: 1887
     deathdate: 1947
     gutenberg_agent_id: '46472'
     url: http://www.gutenberg.org/2009/agents/46472
     wikipedia: https://en.wikipedia.org/wiki/Charles_Nordhoff
   - agent_name: Hall, James Norman
-    birthdate: *id001
+    birthdate: 1887
     deathdate: 1951
     gutenberg_agent_id: '8797'
     url: http://www.gutenberg.org/2009/agents/8797
     wikipedia: https://en.wikipedia.org/wiki/James_Norman_Hall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56457#Faery-Lands-of-the-South-Seas
 gutenberg_issued: '2018-01-30'
 gutenberg_type: Text
 identifiers:
